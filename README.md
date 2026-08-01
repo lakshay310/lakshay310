@@ -20,7 +20,6 @@
 
 # 🚀 About Me
 
-Computer Science undergraduate at **Chitkara University** with a CGPA of **8.65**.
 
 I build scalable backend systems, modern full-stack web applications and AI-powered products.
 
