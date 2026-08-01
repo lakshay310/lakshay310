@@ -1,21 +1,204 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Frontend-based web applications and academic projects, including an Event Management System and an Expense Tracker, focusing on clean UI and logical data handling.<br>👯I’m looking to collaborate on<br>Beginner–to–intermediate level frontend projects, open-source web apps, and student-led tech projects using JavaScript or React.<br>🤝 I’m looking for help with<br>Improving React best practices, project structuring, and writing clean<br>🌱 I’m currently learning<br>React.js<br>Advanced JavaScript<br>Data Structures & Algorithms (Java), more scalable frontend code.<br>💬 Ask me about<br>Java fundamentals, frontend basics, project building as a student, Git/GitHub, and how to structure college projects professionally.<br>⚡ Fun fact<br>I enjoy turning college assignments into real, usable projects instead of just submitting them for marks😄
 
+# 👋 Hi, I'm Lakshay Jain
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshay-jain-8a8a23323)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=220&section=header&text=Lakshay%20Jain&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=lakshay310&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=lakshay310&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshay310&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=7B68EE&center=true&vCenter=true&width=900&lines=Software+Engineer;Backend+Developer;Full+Stack+Developer;AI+Solutions+Builder;Open+Source+Enthusiast"/>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=lakshay310&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/lakshay-jain-8a8a23323)
+[![Email](https://img.shields.io/badge/Email-lakshay0520.becse24@chitkara.edu.in-red?style=for-the-badge&logo=gmail)](mailto:lakshay0520.becse24@chitkara.edu.in)
+
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=lakshay310&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 About Me
+
+Computer Science undergraduate at **Chitkara University** with a CGPA of **8.65**.
+
+I build scalable backend systems, modern full-stack web applications and AI-powered products.
+
+Currently looking for **Software Engineering / Backend Development Internship** opportunities.
+
+- 🌱 Learning System Design & Cloud
+- 💻 Java | Node.js | React | PostgreSQL
+- 🤖 Exploring AI Applications
+- 🏆 Red Hat Certified (RH124 & RH134)
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+Java • Python • C • C++ • JavaScript • TypeScript • SQL
+
+### Frontend
+React • HTML5 • CSS3 • Vite
+
+### Backend
+Node.js • Express.js • REST APIs
+
+### Database
+PostgreSQL • MySQL • Prisma ORM
+
+### Tools
+Git • GitHub • Linux • VS Code • Jest • Socket.io
+
+---
+
+# 🚀 Featured Projects
+
+<details>
+<summary><b>🚦 Flow4Ward – AI Powered Traffic Intelligence Command Center</b></summary>
+
+## Overview
+
+AI-powered traffic management platform providing analytics, congestion prediction and smart traffic insights.
+
+### Features
+
+- AI based traffic prediction
+- Interactive dashboards
+- Live analytics
+- Smart routing
+- Responsive UI
+
+### Tech Stack
+
+React • Node.js • Express • Python • PostgreSQL
+
+</details>
+
+<details>
+<summary><b>🏥 Hospital Appointment Management System</b></summary>
+
+JWT Authentication, Socket.io notifications, Prisma ORM, PostgreSQL, Cloudinary uploads and REST APIs.
+
+</details>
+
+<details>
+<summary><b>🎉 Event Management System</b></summary>
+
+React SPA with event registration, analytics dashboard and responsive UI.
+
+</details>
+
+<details>
+<summary><b>💰 Expense Tracker</b></summary>
+
+Vanilla JavaScript expense tracker with HighCharts and PDF reports.
+
+</details>
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=lakshay310&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshay310&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshay310&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=lakshay310&theme=tokyonight&row=2&column=4"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshay310&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+```text
+Generate using:
+Platane/snk GitHub Action
+```
+
+---
+
+# 🏅 Achievements
+
+| Achievement | Details |
+|------------|---------|
+| ⭐ Star Programmer 2025 | Competitive Coding |
+| 🚀 Dice Technovision | IoT Solar Charger |
+| 🎓 CN CUIET Error101 | Career Development |
+
+---
+
+# 📜 Certifications
+
+- RH124
+- RH134
+
+---
+
+# 🎯 Current Focus
+
+```yaml
+Learning:
+  - Data Structures & Algorithms
+  - Problem Solving
+  - System Design
+  - Cloud Computing
+  - AI Engineering
+
+Building:
+  - Flow4Ward (AI Traffic Intelligence Platform)
+  - Scalable Backend APIs
+  - Full Stack Applications
+
+Exploring:
+  - Machine Learning
+  - DevOps
+  - Open Source
+
+OpenTo:
+  - Software Engineering Internship
+  - Backend Development Internship
+  - Full Stack Development Internship
+```
+
+---
+
+# 📫 Connect
+
+- Email: lakshay0520.becse24@chitkara.edu.in
+- LinkedIn: https://linkedin.com/in/lakshay-jain-8a8a23323
+
+---
+
+<p align="center">
+
+### "Building software that solves real-world problems."
+
+</p>
