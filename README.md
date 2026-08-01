@@ -12,7 +12,7 @@
 <p align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/lakshay-jain-8a8a23323)
-[![Email](https://img.shields.io/badge/Email-lakshay0520.becse24@chitkara.edu.in-red?style=for-the-badge&logo=gmail)](mailto:jainlakshay.jain31@gmail.com)
+[![Email](https://img.shields.io/badge/Email-jainlakshay.jain31@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:jainlakshay.jain31@gmail.com)
 
 </p>
 
