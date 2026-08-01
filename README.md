@@ -6,13 +6,13 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=7B68EE&center=true&vCenter=true&width=900&lines=Software+Engineer;Backend+Developer;Full+Stack+Developer;AI+Solutions+Builder;Open+Source+Enthusiast"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=7B68EE&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Java+Developer;DSA+Enthusiast;Full+Stack+Developer;AI+Explorer"/>
 </p>
 
 <p align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/lakshay-jain-8a8a23323)
-[![Email](https://img.shields.io/badge/Email-lakshay0520.becse24@chitkara.edu.in-red?style=for-the-badge&logo=gmail)](mailto:lakshay0520.becse24@chitkara.edu.in)
+[![Email](https://img.shields.io/badge/Email-lakshay0520.becse24@chitkara.edu.in-red?style=for-the-badge&logo=gmail)](mailto:jainlakshay.jain31@gmail.com)
 
 </p>
 
@@ -183,7 +183,7 @@ OpenTo:
 
 # 📫 Connect
 
-- Email: lakshay0520.becse24@chitkara.edu.in
+- Email: jainlakshay.jain31@gmail.com
 - LinkedIn: https://linkedin.com/in/lakshay-jain-8a8a23323
 
 ---
