@@ -29,7 +29,6 @@ Currently looking for **Software Engineering / Backend Development Internship** 
 - 🌱 Learning System Design & Cloud
 - 💻 Java | Node.js | React | PostgreSQL
 - 🤖 Exploring AI Applications
-- 🏆 Red Hat Certified (RH124 & RH134)
 
 ---
 
@@ -136,14 +135,6 @@ Vanilla JavaScript expense tracker with HighCharts and PDF reports.
 
 ---
 
-# 🐍 Contribution Snake
-
-```text
-Generate using:
-Platane/snk GitHub Action
-```
-
----
 
 # 🏅 Achievements
 
