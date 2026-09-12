@@ -1,194 +1,109 @@
-
-# 👋 Hi, I'm Lakshay Jain
+<h1 align="center">Hi, I'm Lakshay Jain 👋</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=220&section=header&text=Lakshay%20Jain&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
+  <b>B.Tech IT Student · Full-Stack Developer · Backend Enthusiast</b><br/>
+  Building scalable backend systems, modern full-stack apps, and AI-powered products.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=7B68EE&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Java+Enthusiast;DSA+Enthusiast;Full+Stack+Enthusiast;AI+Explorer"/>
-</p>
-
-<p align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/lakshay-jain-8a8a23323)
-[![Email](https://img.shields.io/badge/Email-jainlakshay.jain31@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:jainlakshay.jain31@gmail.com)
-
-</p>
-
----
-
-# 🚀 About Me
-
-
-I build scalable backend systems, modern full-stack web applications and AI-powered products.
-
-Currently looking for **Software Engineering / Backend Development Internship** opportunities.
-
-- 🌱 Learning System Design & Cloud
-- 💻 Java | Node.js | React | PostgreSQL
-- 🤖 Exploring AI Applications
-
----
-
-# 🛠 Tech Stack
-
-### Languages
-Java • Python • C • C++ • JavaScript • TypeScript • SQL
-
-### Frontend
-React • HTML5 • CSS3 • Vite
-
-### Backend
-Node.js • Express.js • REST APIs
-
-### Database
-PostgreSQL • MySQL • Prisma ORM
-
-### Tools
-Git • GitHub • Linux • VS Code • Jest • Socket.io
-
----
-
-# 🚀 Featured Projects
-
-<details>
-<summary><b>🚦 Flow4Ward – AI Powered Traffic Intelligence Command Center</b></summary>
-
-## Overview
-
-AI-powered traffic management platform providing analytics, congestion prediction and smart traffic insights.
-
-### Features
-
-- AI based traffic prediction
-- Interactive dashboards
-- Live analytics
-- Smart routing
-- Responsive UI
-
-### Tech Stack
-
-React • Node.js • Express • Python • PostgreSQL
-
-</details>
-
-<details>
-<summary><b>🏥 Hospital Appointment Management System</b></summary>
-
-JWT Authentication, Socket.io notifications, Prisma ORM, PostgreSQL, Cloudinary uploads and REST APIs.
-
-</details>
-
-<details>
-<summary><b>🎉 Event Management System</b></summary>
-
-React SPA with event registration, analytics dashboard and responsive UI.
-
-</details>
-
-<details>
-<summary><b>💰 Expense Tracker</b></summary>
-
-Vanilla JavaScript expense tracker with HighCharts and PDF reports.
-
-</details>
-
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lakshay310&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshay310&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshay310&layout=compact&theme=tokyonight"/>
-
+  <a href="https://linkedin.com/in/lakshay-jain-8a8a23323">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:jainlakshay.jain31@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+  <a href="https://github.com/lakshay310">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+### 🚀 About Me
 
-<p align="center">
+- 🎓 B.Tech in Information Technology, Chitkara University (Class of 2028)
+- 💻 Currently exploring **System Design**, **Cloud Computing**, and **AI Engineering**
+- 🌱 Building full-stack apps with **React, Node.js & PostgreSQL**
+- 🔭 Looking for **Software Engineering / Backend Development Internship** opportunities
+- 📫 Reach me at **jainlakshay.jain31@gmail.com**
 
-<img src="https://github-profile-trophy.vercel.app/?username=lakshay310&theme=tokyonight&row=2&column=4"/>
+---
 
+### 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/>
 </p>
 
 ---
 
-# 📊 Contribution Graph
+### 🌟 Featured Projects
+
+**🚦 [Flow4Ward](https://github.com/lakshay310/Flow4Ward)** — AI-powered traffic intelligence platform predicting congestion and optimizing resources in real time, trained on real incident data.
+`React · Node.js · Express · Python · PostgreSQL`
+
+**🏥 [Hospital Appointment System](https://github.com/lakshay310/Hospital-Appointment-System)** — RESTful backend API with patient/doctor management, JWT auth, and Prisma ORM.
+`Node.js · Express · PostgreSQL · JWT · Prisma`
+
+**🎉 [EventSphere](https://github.com/lakshay310/EventSphere)** — Full-stack event management platform with role-based dashboards for Admins, Judges, and Participants.
+`React · Vite`
+
+**💰 [Expense Tracker](https://github.com/lakshay310/expense-tracker)** — Track income and expenses with visual insights, receipt uploads, and spending predictions.
+`JavaScript · HTML · CSS`
+
+**🧩 [LeetCode Solutions](https://github.com/lakshay310/LeetCode-Solutions)** — Java solutions to data structures & algorithms problems.
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lakshay310&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshay310&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshay310&theme=tokyo-night"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshay310&theme=tokyonight&hide_border=true" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshay310&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-
-# 🏅 Achievements
-
-| Achievement | Details |
-|------------|---------|
-| ⭐ Star Programmer 2025 | Competitive Coding |
-| 🚀 Dice Technovision | IoT Solar Charger |
-| 🎓 CN CUIET Error101 | Career Development |
-
----
-
-# 📜 Certifications
-
-- RH124
-- RH134
-
----
-
-# 🎯 Current Focus
+### 🎯 Current Focus
 
 ```yaml
-Learning:
-  - Data Structures & Algorithms
-  - Problem Solving
-  - System Design
-  - Cloud Computing
-  - AI Engineering
-
-Building:
-  - Flow4Ward (AI Traffic Intelligence Platform)
-  - Scalable Backend APIs
-  - Full Stack Applications
-
-Exploring:
-  - Machine Learning
-  - DevOps
-  - Open Source
-
-OpenTo:
-  - Software Engineering Internship
-  - Backend Development Internship
-  - Full Stack Development Internship
+Learning:   Data Structures & Algorithms, System Design, Cloud Computing, AI Engineering
+Building:   Flow4Ward, scalable backend APIs, full-stack applications
+Exploring:  Machine Learning, DevOps, Open Source
+Open to:    Software Engineering / Backend / Full-Stack Internships
 ```
 
 ---
 
-# 📫 Connect
-
-- Email: jainlakshay.jain31@gmail.com
-- LinkedIn: https://linkedin.com/in/lakshay-jain-8a8a23323
-
----
+<p align="center">
+  <i>"Building software that solves real-world problems."</i>
+</p>
 
 <p align="center">
-
-### "Building software that solves real-world problems."
-
+  <img src="https://komarev.com/ghpvc/?username=lakshay310&style=flat-square&color=blue" alt="Profile views"/>
 </p>
