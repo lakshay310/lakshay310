@@ -3,7 +3,9 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 0 * * *"
+
   workflow_dispatch:
+
   push:
     branches:
       - main
@@ -11,6 +13,9 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
 
     steps:
       - name: Generate snake animation
