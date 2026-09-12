@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=220&section=header&text=Lakshay%20Jain&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Backend%20Enthusiast%20%7C%20AI%20Explorer&descAlignY=72&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=220&section=header&text=Lakshay%20Jain&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Enthusiast%20%7C%20Backend%20Enthusiast%20%7C%20AI%20Explorer&descAlignY=72&descSize=18"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&color=7B68EE&center=true&vCenter=true&width=900&lines=B.Tech+IT+Student+%40+Chitkara+University;Full+Stack+Developer+(React+%7C+Node.js+%7C+PostgreSQL);DSA+%26+Java+Enthusiast;Open+to+SWE+%2F+Backend+Internships;Exploring+AI-Powered+Products"/>
 
