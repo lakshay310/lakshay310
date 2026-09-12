@@ -193,20 +193,3 @@ Open to:    Software Engineering / Backend / Full-Stack Internships
 
 </div>
 
----
-
-<details>
-<summary>⚙️ Snake Setup (optional, one-time)</summary>
-
-<br/>
-
-To make the contribution snake animation work:
-
-1. In this `lakshay310/lakshay310` repo, go to **Actions → New workflow → set up a workflow yourself**.
-2. Paste in the official `Platane/snk` action YAML (search "github contribution snake action" for the latest version).
-3. Commit it to run on a schedule (e.g. daily) and on push to `main`.
-4. It will generate an `output` branch with the SVG the snake image above points to.
-
-If you'd rather skip this, just delete the "🐍 Contribution Snake" section above.
-
-</details>
