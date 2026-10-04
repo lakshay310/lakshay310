@@ -83,6 +83,29 @@ AI-powered traffic intelligence command center that predicts congestion and deli
 
 <td width="50%" valign="top">
 
+### ✈️ [VoyageAI](https://github.com/lakshay310/VoyageAI)
+
+Full-stack AI-powered travel planning platform that generates personalized day-by-day itineraries and manages bookings, expenses, and journals in real time.
+
+**Tech Stack**
+
+`React` `Node.js` `Express` `PostgreSQL` `Prisma` `Gemini`
+
+**Highlights**
+
+- 🤖 AI-generated custom itineraries
+- 🏨 Flight & hotel booking management
+- 💰 Expense tracking & analytics
+- 🔔 Real-time notifications & interactive maps
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
 ### 🏥 [Hospital Appointment System](https://github.com/lakshay310/Hospital-Appointment-System)
 
 RESTful backend for patient and doctor management with appointment scheduling.
@@ -99,10 +122,6 @@ RESTful backend for patient and doctor management with appointment scheduling.
 - 📅 Appointment management
 
 </td>
-
-</tr>
-
-<tr>
 
 <td width="50%" valign="top">
 
@@ -122,6 +141,10 @@ Full-stack event management platform with role-based dashboards for Admins, Judg
 - 📊 Analytics
 
 </td>
+
+</tr>
+
+<tr>
 
 <td width="50%" valign="top">
 
